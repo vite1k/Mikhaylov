@@ -6,3 +6,6 @@
 ## Git Merge 
 
 ## Git Checkout
+
+## Git Log
+- команда которая отвечает за показ всех commit'ов
