@@ -3,3 +3,5 @@
 ## Git Branch 
 
 ## Git Merge 
+
+## Git Checkout
